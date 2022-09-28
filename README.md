@@ -1,34 +1,39 @@
-# BaaS Ecosystem
+# Backend as a Service (BaaS) ecosystem
 
-Let's discuss Backend as a Service (BaaS) ecosystem.
+Let's discuss around BaaS ecosystem. Why we need, when to use, what are the options, and how they are comparing.
 
-> Feel free to do some casual discussion and QA (question/answer)
+> 🎉 Feel free to do some casual discussion and QA (question/answer)
 
-## Why and when we need BaaS
+## Introduction
 
-- Frontend and backend are differentiated
-- Experimentation
-- Limitation factors related to business as well
+Why we need it and when to use it?
+
+- Frontend and backend are well differentiated.
+- Experimentation for new projects/products/features.
+- Limitation factors related to business as well.
   - Team of developers, so need to maximize team effort. Want to outsource cloud infrastructure management to the most experienced.
-  - Budget, so need to cust cost. Save money and decrease the cost of development
-  - Timeline, so need to speed up backend development. Reduce time to market
-- Need a lot of backend features quickly
+  - Timeline, so need to speed up backend development. Reduce time to market.
+  - Budget, so need to cust cost. Save money and decrease the cost of development.
+- Need a lot of backend features quickly.
   - Database management
   - Hosting and deployment
   - REST API or GraphQL API
   - User authentication and authorization
   - Email verification
   - Files/assets storage
-  - Geolocation
   - Push notifications
+  - Serverless function
+  - Geolocation
   - Security settings
   - Social account integration
-- Tradeoffs
+- Trade-offs
   - 3rd party code and responsibility
   - Vendor lock-in
   - Unexpected long term cost
 
-## What is BaaS
+## Definition and scope
+
+What is exactly a BaaS?
 
 - Backend that we can use immediately without any prior development.
 - Can expose the REST API or GraphQL.
