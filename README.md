@@ -9,13 +9,13 @@
 ## API BaaS
 
 - Firebase
-- Kontenbase
-  - Kontenbas v1
-  - Kontenbase v2 preview / Microgen v3
 - Supabase
 - Nhost
 - Hygraph
 - Payload CMS
+- Kontenbase
+  - Kontenbase v1
+  - Kontenbase v2 preview / Microgen v3
 
 ## Internal Tool BaaS
 
