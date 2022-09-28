@@ -17,7 +17,6 @@ Why we need it and when to use it?
 - Need a lot of backend features quickly.
   - Database management
   - Hosting and deployment
-  - REST API or GraphQL API
   - User authentication and authorization
   - Email verification
   - Files/assets storage
@@ -26,6 +25,14 @@ Why we need it and when to use it?
   - Geolocation
   - Security settings
   - Social account integration
+  - REST API or GraphQL API
+  - SDK (software development kit) for various platforms
+    - JavaScript
+    - Java
+    - Ruby
+    - Python
+    - Golang
+    - PHP
 - Trade-offs
   - 3rd party code and responsibility
   - Vendor lock-in
@@ -39,6 +46,7 @@ What is exactly a BaaS?
 - Can expose the REST API or GraphQL.
 - Can be cloud-hosted (available instantly) or self-hosted (usually open source or on-premise).
 - Comparable to Headless CMS (Content Management System).
+- Can be categorized as low-code and no-code.
 
 ### References
 
@@ -57,9 +65,17 @@ Evaluating most popular BaaS options.
 - [Strapi](https://strapi.io)
 - [Payload CMS](https://payloadcms.com)
 - [Hygraph](https://hygraph.com)
+- [AWS Amplify](https://aws.amazon.com/amplify)
+- [Backendless](https://backendless.com)
+- [back4app](https://www.back4app.com)
 - [Kontenbase](https://kontenbase.com)
   - Kontenbase v1
   - Kontenbase v2 preview / Microgen v3
+
+### References
+
+- https://blog.back4app.com/firebase-alternatives
+- https://bejamas.io/discovery/headless-cms
 
 ## Internal Tool BaaS
 
@@ -67,3 +83,7 @@ Evaluating most popular BaaS options.
 - [Budibase](https://budibase.com)
 - [Metabase](https://metabase.com)
   - A backend written in Clojure which contains a REST API
+
+## Questions if any
+
+- How is it different with PaaS (Platform as a Service)
