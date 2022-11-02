@@ -68,6 +68,7 @@ Evaluating most popular BaaS options.
 - [AWS Amplify](https://aws.amazon.com/amplify)
 - [Backendless](https://backendless.com)
 - [back4app](https://www.back4app.com)
+- [Pocketbase](https://pocketbase.io)
 - [Kontenbase](https://kontenbase.com)
   - Kontenbase v1
   - Kontenbase v2 preview / Microgen v3
