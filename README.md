@@ -13,7 +13,7 @@ Why we need it and when to use it?
 - Limitation factors related to business as well.
   - Team of developers, so need to maximize team effort. Want to outsource cloud infrastructure management to the most experienced.
   - Timeline, so need to speed up backend development. Reduce time to market.
-  - Budget, so need to cust cost. Save money and decrease the cost of development.
+  - Budget, so need to cut cost. Save money and decrease the cost of development.
 - Need a lot of backend features quickly.
   - Database management
   - Hosting and deployment
